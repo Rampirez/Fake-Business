@@ -89,26 +89,3 @@ footer {
   background-color: #333;
   color: #fff;
 }
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  .nav-links {
-    display: none;
-    flex-direction: column;
-    background-color: #333;
-    position: absolute;
-    top: 60px;
-    right: 0;
-    width: 200px;
-    padding: 1em 0;
-    border-radius: 5px;
-  }
-
-  .nav-links.active {
-    display: flex;
-  }
-
-  .hamburger-menu {
-    display: flex;
-  }
-}
