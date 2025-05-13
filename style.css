@@ -77,6 +77,22 @@ main {
   margin-top: 1em;
 }
 
+.splash2 {
+  text-align: center;
+  padding: 5em 1em;
+  background-color: #3b0b4b;
+}
+
+.splash2 h1 {
+  font-size: 2.5em;
+  color: #333;
+}
+
+.splash2 p {
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+
 /* Footer */
 footer {
   text-align: center;
