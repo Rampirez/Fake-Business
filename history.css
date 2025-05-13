@@ -1,3 +1,8 @@
+main {
+    border: 2px solid black; /* Adds a border with 2px thickness and black color */
+    padding: 20px; /* Adds 20px padding inside the main element */
+}
+
 .history-title {
   text-align: center;
   padding: 5em 1em;
