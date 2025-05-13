@@ -35,4 +35,8 @@
     padding: 20px;
     margin: 30px;
     border-radius: 10px;
+    background-image: url('https://img.freepik.com/free-vector/five-empty-comic-book-page-colorful-template-background_1017-11427.jpg?t=st=1747017132~exp=1747020732~hmac=0a6b100aa27d13f938fc58ca287d0b4b14ce9ab06764738685dfd0acb7a864c7');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
