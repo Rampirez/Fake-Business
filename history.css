@@ -31,6 +31,6 @@
 }
 
 .history-story {
-    border: 2px solid black; /* Adds a border with 2px thickness and black color */
-    padding: 20px; /* Adds 20px padding inside the main element */
-}
+    border: 2px solid black;
+    padding: 20px;
+    margin: 30px;
