@@ -65,19 +65,19 @@ body {
   border-radius: 3px;
 }
 
-/* Hero Section */
-.hero {
+/* Spalsh Section */
+.splash {
   text-align: center;
   padding: 5em 1em;
   background-color: #f4f4f4;
 }
 
-.hero h1 {
+.splash h1 {
   font-size: 2.5em;
   color: #333;
 }
 
-.hero p {
+.splash p {
   font-size: 1.2em;
   margin-top: 1em;
 }
