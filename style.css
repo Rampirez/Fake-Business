@@ -133,8 +133,9 @@ main {
 }
 
 .social-media img {
-  width: 200px;
+  width: 50px; 
   height: auto;
+  margin-bottom: 10px;
 }
 
 /* Footer */
