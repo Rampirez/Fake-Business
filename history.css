@@ -1,1 +1,31 @@
+.history-title {
+  text-align: center;
+  padding: 5em 1em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
 
+.history-title h1 {
+  font-size: 2.5em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
+
+.history-title p {
+  font-size: 1.2em;
+  margin-top: 1em;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black, 
+    1px 1px 0 black;
+}
