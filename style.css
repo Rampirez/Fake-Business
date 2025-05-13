@@ -47,6 +47,8 @@ main {
 .nav-links {
   display: flex;
   gap: 1em;
+  color: #36004c;
+  text-shadow: 1px 1px 2px #b91e65;
 }
 
 .nav-links a {
@@ -56,23 +58,6 @@ main {
 
 .nav-links a:hover {
   text-decoration: underline;
-}
-
-/* Hamburger Menu */
-.hamburger-menu {
-  display: none;
-  background: none;
-  border: none;
-  flex-direction: column;
-  gap: 5px;
-  cursor: pointer;
-}
-
-.hamburger-menu .bar {
-  width: 25px;
-  height: 3px;
-  background-color: #fff;
-  border-radius: 3px;
 }
 
 /* Spalsh Section */
