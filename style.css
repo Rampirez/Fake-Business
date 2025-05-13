@@ -47,12 +47,12 @@ main {
 .nav-links {
   display: flex;
   gap: 1em;
-  color: #36004c;
+  color: #3b0b4b;
   text-shadow: 1px 1px 2px #b91e65;
 }
 
 .nav-links a {
-  color: #fff;
+  color: #3b0b4b;
   text-decoration: none;
 }
 
