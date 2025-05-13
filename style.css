@@ -64,7 +64,6 @@ main {
 .splash {
   text-align: center;
   padding: 5em 1em;
-  background-color: #d7f3f9;
   background-image: url('splashimg.jpg');
   background-size: cover;
   background-position: center;
@@ -84,7 +83,6 @@ main {
 .splash2 {
   text-align: center;
   padding: 5em 1em;
-  background-color: #3b0b4b;
 }
 
 .splash2 h1 {
