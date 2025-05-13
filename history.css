@@ -1,8 +1,3 @@
-main {
-    border: 2px solid black; /* Adds a border with 2px thickness and black color */
-    padding: 20px; /* Adds 20px padding inside the main element */
-}
-
 .history-title {
   text-align: center;
   padding: 5em 1em;
@@ -33,4 +28,9 @@ main {
     1px -1px 0 black,
     -1px 1px 0 black, 
     1px 1px 0 black;
+}
+
+.history-story {
+    border: 2px solid black; /* Adds a border with 2px thickness and black color */
+    padding: 20px; /* Adds 20px padding inside the main element */
 }
