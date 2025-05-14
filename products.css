@@ -8,6 +8,10 @@
 .product {
   flex: 1; 
   text-align: center; 
+  border: 2px solid black;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
 }
 
 .product a {
